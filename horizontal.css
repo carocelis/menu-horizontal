@@ -1,0 +1,26 @@
+body{
+	font-family: sans-serif;
+}
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	line-height: 40px;
+	background-color: #2e2e2a;
+}
+li{
+	width: 100px;
+	display: inline-block;
+	text-align: center;
+
+}
+a{
+	display: block;
+	text-decoration: none;
+	color: white;
+	padding-left: 8px;
+}
+a:hover{
+	background-color: orange;
+	color: black;
+}
